@@ -49,7 +49,7 @@ function getRandomInt(min, max) {
 mix(marken);
 mix(objekt.schl3);
 
-
+//foo
 
 
 // console.log(multi_by_two(objekt.schl2));
